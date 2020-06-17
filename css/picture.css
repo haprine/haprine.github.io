@@ -1,0 +1,231 @@
+a {
+    text-decoration: none;
+}
+.daohang{
+    list-style-type: none;
+}
+.nav-item{
+    list-style-type: none;
+    display: inline-block;
+    height: 50px;
+    vertical-align: bottom;
+    width: 160px;
+    font-family: "Microsoft Yahei";
+    
+
+}
+a:-webkit-any-link {
+    color: black;
+    cursor: pointer;
+    line-height: 1;
+}
+.nav-item a{
+    display: block;
+    font-size: 20px;
+    font-weight: 600;
+    font-family: "Microsoft Yahei";
+    color: rgb(255, 255, 255);
+    position: relative;
+    height: 50px;
+    width: 140px;
+    text-align: center;
+}
+.nav-item a:hover{
+    background-color: rgb(0, 96, 126);
+    color: rgb(255, 255, 255);
+}
+.naver{
+    height: 50px;
+    background-color: rgb(0, 0, 0);
+    text-align: center;
+    margin: auto 0;
+}
+.navbar{
+    height: 55px;
+
+}
+.item-name {
+    padding: 0 25px;
+    height: 50px;
+    line-height: 50px;
+    
+}
+.naver .inner .daohang{
+    margin: 0px;
+    padding: 0px;
+}
+.inner .inner2 .navbar .daohang .nav-item{
+    text-align: center;
+}
+body{
+    display: block;
+}
+body, html, span, div {
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    display: block;
+}
+.main{
+    text-align: center;
+    background-color: rgb(243, 243, 243);
+}
+.inner2{
+    padding-top: 20px;
+    margin: 0 auto;
+    width: 1000px;
+    height: 7200px;
+    
+}
+.maintitle{
+    text-align: initial;
+    padding-top: 50px;
+    border-bottom: rgb(46, 46, 46) dotted 2px;
+    padding-bottom: 5px;
+
+}
+.maintitle span{
+    font-family: "柳公权柳体";
+    font-size: 36px;
+    font-weight: bolder;
+    color: rgb(46, 46, 46);
+}
+.introtext{
+    margin-top: 20px;
+    padding: 0px 20px 10px 20px;
+    border-bottom: rgb(53, 53, 53) solid 3px;
+}
+.introtext p{
+    text-align: initial;
+    text-indent: 2em;
+    font-size: 14px;
+    
+    
+}
+.showbox{
+    padding: 30px;
+    padding-left: 0px;
+    margin-top: 30px;
+    height: 800px;
+}
+.picture{
+    float: left;
+}
+.textbox1{
+    float:right;
+    padding:40px 20px 40px 10px;
+    width: 280px;
+    text-align: initial;
+}
+.textbox1 p{
+    text-indent: 2em;
+    line-height: 1.7em;  
+}
+.message1{
+    margin-bottom: 35px;
+}
+.message1 p{
+   
+    font-size: 20px;
+    color: grey;
+    line-height: 0.75em;
+    
+    
+}
+.box{
+    margin-top: 30px;
+    padding: 30px 10px 30px 10px;
+    background-color: lavender;
+    height: 900px;
+
+}
+.textbox2{
+    float: left;
+    padding: 40px 40px 40px 20px;
+    width: 250px;
+    text-align: initial;
+}
+.message2{
+    margin-bottom: 35px;
+}
+.message2 p{
+    font-size: 20px;
+    color: grey;
+    line-height: 0.75em;
+}
+.textbox2 p{
+    text-indent: 2em;
+    line-height: 1.7em;  
+}
+.box3{
+    margin-top: 40px;
+    padding:15px ;
+    border-top: black dashed 2px;
+}
+.message3{
+    float: left;
+    text-align: left;
+    padding :10px 30px 20px 10px;
+
+}
+.message3 p{
+    font-size: 20px;
+    color: grey;
+    line-height: 0.75em;
+}
+.textbox3{
+    padding: 20px;
+    text-align: left;
+}
+.textbox3 p{
+    text-indent: 2em;
+    line-height: 1.7em;  
+
+}
+.vshow{
+    margin-top: 40px;
+    background-color: rgb(46, 46, 46);
+    border-radius: 20px;
+    height:1120px;
+
+}
+.vbox{
+    float: left;
+    padding: 30px;
+}
+.js{
+    float: right;
+    margin-right: 40px;
+    width: 400px;
+    text-align: initial;
+    padding-top: 100px;
+}
+.js p{
+    color: rgb(201, 201, 201);
+    text-indent: 2em;
+    line-height: 2em;
+}
+.last{
+    margin-top: 50px;
+    background-color: rgb(46, 46, 46);
+    padding :40px;
+    border-radius: 20px;
+}
+.pbox{
+   padding-top: 40px;
+}
+.coppic{
+    margin-top: 50px;
+}
+.cop{
+    margin-top: 10px;
+    padding-bottom: 50px;
+    
+}
+.cop span{
+    color: gray;
+    font-size: 12px;
+
+}
